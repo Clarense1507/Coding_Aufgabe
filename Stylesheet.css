@@ -1,0 +1,17 @@
+
+   
+body{ 
+    display: block; 
+    
+
+} 
+#canvas-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 { text-align: center;  text-decoration: underline;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+      background-color: rgb(199, 151, 151);}
+
+.Name {text-align: center; color: rgb(10, 10, 10); font-size: larger;  }
